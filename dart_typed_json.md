@@ -89,7 +89,7 @@ If we look at line 23, we see that it calls an undefined method `.toUpperCase()`
 print(json["iceCreams"][0].toUpperCase());
 ```
 
-Run your code again. You'll note that we only discover this issue at *runtime* -
+Run your code again. You'll notice that we only discover this issue at *runtime* -
 
 ```
 Unhandled exception:
