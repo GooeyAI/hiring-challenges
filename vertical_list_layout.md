@@ -2,11 +2,11 @@
 
 ### Task
 
-1. Fix the errors in the provided code to render a vertical layout of 3 indpendent `ListView`s, as shown in this video -
-
-https://user-images.githubusercontent.com/19492893/174288598-788b0d12-6875-43e0-8794-25538f3e3b5a.mp4
+1. Fix the errors in the provided code to render a vertical layout of 3 indpendent `ListView`s, as shown the video below.
 
 2. Figure out *why* this problem arises, and gain an in-depth understanding of [fluttter layout constraints](https://docs.flutter.dev/development/ui/layout/constraints). Include this explaination in the video you send to us.
+
+[https://user-images.githubusercontent.com/19492893/174288598-788b0d12-6875-43e0-8794-25538f3e3b5a.mp4](https://user-images.githubusercontent.com/19492893/174288598-788b0d12-6875-43e0-8794-25538f3e3b5a.mp4)
 
 
 ### Code 
