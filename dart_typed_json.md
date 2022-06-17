@@ -1,10 +1,6 @@
 # Dart typed JSON
 
-This test will test how well you understand the Dart type system,
-as well as your basic JSON syntax knowledge.
-
-Note that we expect you to enable <a href="https://dart.dev/null-safety">sound null-safety</a>;
-you will encounter compiler warnings for null safety which you are expected to fix.
+This challenge will test how well you understand the Dart type system, as well as your basic JSON syntax knowledge.
 
 
 
@@ -52,7 +48,7 @@ void main() {
 
 ### Part 1
 
-Run the above code. You should immediately see an error that looks like this -
+Run the above code. You should see an error that looks like this. Fix it.
 
 ```
 Unhandled exception:
