@@ -80,8 +80,7 @@ print(json[0]["flavor"]);
 
 ### Part 3
 
-
-This is a "reverse" coding challenge, in that you need to change the code such that does **not**
+This is a bit of an unusual coding challenge because you need to change the code such that does **not**
 *compile*.
 
 If we look at line 23, we see that it calls an undefined method `.toUpperCase()` on a `Map` object.
@@ -90,7 +89,7 @@ If we look at line 23, we see that it calls an undefined method `.toUpperCase()`
 print(json["iceCreams"][0].toUpperCase());
 ```
 
-The thing to note here is that we only discover this issue at *runtime* -
+Run your code again. You'll note that we only discover this issue at *runtime* -
 
 ```
 Unhandled exception:
